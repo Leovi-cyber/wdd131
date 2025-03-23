@@ -9,6 +9,8 @@ h1 {
 
 nav ul {
     display: flex;
+    list-style-type: none;
+    
 }
 
 nav a:hover {
