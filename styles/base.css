@@ -36,7 +36,7 @@ nav a {
     color: #fff;
     text-decoration: none;
     padding: 1rem;
-    flex: 0 1 1;
+    flex: 1;
 }
 
 nav ul {
