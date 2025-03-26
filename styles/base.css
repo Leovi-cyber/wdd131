@@ -63,8 +63,8 @@ main {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-    margin-top: 30px;
+    align-items: center;
+    margin-top: 100px;
     
 }
 
@@ -98,6 +98,10 @@ main {
     margin-bottom: 10px;
 }
 
+.my_pic_container img {
+    float: right;
+    margin-left: 20px;  
+}
 .flag_container {
     display: flex;
     align-items: center;
